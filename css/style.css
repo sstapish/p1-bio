@@ -1,5 +1,6 @@
 body {
 	background: url("../img/bg.png");
+	padding: 50px;
 	}
 
  /*.color-bg {
@@ -17,7 +18,9 @@ h1 {
 	border-radius: 30px;
 	width: 400px;
 	height: 100px;
+
 	line-height: 100px;
+	text-align: center;
 
 }
 
