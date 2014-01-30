@@ -48,10 +48,12 @@ h3 {
 
 p {
 	color: white;
+	margin-left: 10px;
 }
 
 ul {
 	padding-left: 0;
+	margin-left: 10px; 
 }
 
  li {
