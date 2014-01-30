@@ -14,6 +14,7 @@ body {
 h1 {
 	background: #263044;
 	color: white;
+	padding-left: 15px;
 
 	border-radius: 30px;
 	width: 400px;
@@ -27,6 +28,8 @@ h1 {
 h2 {
 	background: #263044;
 	color: white;
+	padding-left: 15px;
+
 	width: 500px;
 	height: 40px;
 	line-height: 40px;
@@ -35,6 +38,9 @@ h2 {
 h3 {
 	background: #263044;
 	color: white;
+	padding-left: 15px;
+
+	
 	width: 500px;
 	height: 40px;
 	line-height: 40px;
