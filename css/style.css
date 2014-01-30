@@ -1,5 +1,7 @@
 body {
-	color: rgba(29, 31, 32, 0.4);
 	background: url("../img/solid.png");
-	
+	}
+
+.color-bg {
+	background: rgba(88, 142, 168, 0.85);
 }
