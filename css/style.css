@@ -4,4 +4,11 @@ body {
 
 .color-bg {
 	background: rgba(88, 142, 168, 0.5);
+	height: 1000px;
+}
+
+h3 {
+	background: #081838;
+	width: 500px;
+	height: 40px;
 }
