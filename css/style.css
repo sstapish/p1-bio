@@ -55,11 +55,13 @@ h3 {
 p {
 	color: white;
 	margin-left: 18px;
+	font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 ul {
 	padding-left: 0;
-	margin-left: 18px; 
+	margin-left: 18px;
+	font-family: 'Alegreya Sans SC', sans-serif; 
 }
 
  li {
