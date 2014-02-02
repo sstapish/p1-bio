@@ -32,6 +32,9 @@ body {
 	height: 20px;
 	margin: 16px 0;
 	padding-left: 40px;
+}
+
+ul>.nav {
 	list-style-image: none;
 	list-style-position: outside;
 	list-style-type: none;
