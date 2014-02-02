@@ -3,15 +3,18 @@ body {
 	padding: 50px;
 	}
 
- /*.color-bg {
-	background: rgba(185, 187, 141, 0.4);
+.navbar {
 	position: fixed;
 	top: 0;
 	left: 0;
-	height: 3000px;
-} */
+	z-index: 10;
+	background: #212124;
+	line-height: 5px;
+	white-space: nowrap;
+	min-width: 30px;
+}
 
-h1 {
+ h1 {
 	color: white;
 	font-family: 'Averia Sans Libre', cursive;
 
