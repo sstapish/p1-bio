@@ -34,6 +34,10 @@ body {
 	padding-left: 40px;
 }
 
+.rfloat {
+	float: right;
+}
+
 img {
 	width: 400px;
 	height: 550px;
