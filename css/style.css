@@ -27,7 +27,9 @@ h1 {
 img {
 	width: 510px;
 	height: 700px;
-	float: left;
+	padding: 20px 30px;
+	margin: 10px;
+	float: right;
 }
 
 
@@ -40,8 +42,6 @@ h2 {
 	height: 40px;
 	line-height: 40px;
 
-	float: right;
-	display: block;
 }
 
 h3 {
