@@ -36,7 +36,8 @@ ul.nav li {
 	padding: 0 30px;
 	margin: 0 10px;
 }
-.rfloat {
+
+div.rfloat {
 	float: right;
 	margin: 0;
 }
