@@ -4,17 +4,14 @@ body {
 	}
 
 .navbar {
+	background: url("../img/nav.jpg");
+	left: 0;
+	line-height: 5px;
 	position: fixed;
 	top: 0;
-	left: 0;
-	z-index: 10;
-
-	width:100%;
-	background: #212124;
-	line-height: 5px;
-
 	white-space: nowrap;
-	min-width: 30px;
+	width: 100%;
+	z-index: 10;
 }
 
  h1 {
