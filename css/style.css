@@ -6,9 +6,9 @@ body {
 .navbar {
 	background: url("../img/nav.jpg");
 	left: 0;
+	top: 0;
 	line-height: 5px;
 	position: fixed;
-	top: 0;
 	white-space: nowrap;
 	width: 100%;
 	z-index: 10;
@@ -16,7 +16,7 @@ body {
 
  h1 {
 	color: white;
-	font-family: 'Averia Sans Libre', cursive;
+	font-family: 'Allerta', sans-serif;
 
 	width: 400px;
 	height: 100px;
