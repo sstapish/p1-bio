@@ -27,6 +27,7 @@ h1 {
 img {
 	width: 510px;
 	height: 700px;
+	float: left;
 }
 
 
