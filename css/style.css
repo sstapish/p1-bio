@@ -32,9 +32,9 @@ body {
 }
 
 ul.nav li {
-	display: inline-block;
+	float: right;
 	padding: 0 30px;
-	margin: 0 10px;
+	margin-right: 40px;
 }
 
 .rfloat {
