@@ -34,11 +34,6 @@ body {
 	padding-left: 40px;
 }
 
-ul.nav {
-	list-style-position: outside;
-	list-style-type: none;
-}
-
 .rfloat {
 	float: right;
 	margin: 0;
