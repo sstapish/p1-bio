@@ -87,7 +87,7 @@ a:link {
   }
 
 a:hover {
-	text-decoration: underline;
+	font-size: 20px;
 }
 
 a:visited {
