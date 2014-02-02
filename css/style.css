@@ -34,11 +34,9 @@ img {
 	
 }
 
-/* .float {
-	float: right;
-
-	
-} */
+.block {
+	margin-left: 50px;
+}
 
 h2 {
 	color: white;
