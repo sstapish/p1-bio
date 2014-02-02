@@ -34,9 +34,15 @@ body {
 	padding-left: 40px;
 }
 
-.rfloat {
-	float: right;
-	margin: 0;
+ul.nav {
+margin: 120px 0 0 0;
+list-style: none;
+float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 40px;
 }
 
 img {
