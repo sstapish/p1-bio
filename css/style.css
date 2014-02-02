@@ -71,12 +71,12 @@ ul {
  	list-style: none;
  }
 
- .class {
+ .constrain {
+ 	height: 700px;
  	float: right;
  }
  
-
-  a {
+ a {
   	text-decoration: none;
 
   }
