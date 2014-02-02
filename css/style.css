@@ -32,9 +32,13 @@ body {
 }
 
 ul.nav li {
-	display: inline-block;
-	padding: 0 30px;
-	margin: 0 10px;
+	background: url("../img/nav.jpg");
+	left: 0;
+	line-height: 5px;
+	position: fixed;
+	top: 0;
+	white-space: nowrap;
+	width: 100%;
 }
 
 .rfloat {
