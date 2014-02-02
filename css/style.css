@@ -35,8 +35,11 @@ body {
 	padding-left: 40px;
 }
 
+ul.nav li {
+	padding: 0 30px;
+	margin: 0 10px;
+}
 .rfloat {
-	display: block;
 	float: right;
 	margin: 0;
 }
