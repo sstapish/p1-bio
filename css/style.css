@@ -9,7 +9,7 @@ body {
 	top: 0;
 	line-height: 5px;
 	position: fixed;
-	/*white-space: nowrap; */
+	white-space: nowrap; 
 	width: 100%;
 	z-index: 10;
 
