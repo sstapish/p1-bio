@@ -28,21 +28,15 @@ body {
 
 }
 
-.nav {
-	color: white;
-	height: 50px;
-	margin: 16px 0;
-	padding-left: 40px;
+ul.nav {
+margin: 120px 0 0 0;
+list-style: none;
+float: right;
 }
 
 ul.nav li {
-	display: inline-block;
-	padding: 0 30px;
-	margin: 0 10px;
-}
-.rfloat {
-	float: right;
-	margin: 0;
+	float: left;
+	margin-right: 40px;
 }
 
 img {
