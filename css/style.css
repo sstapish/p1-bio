@@ -35,6 +35,7 @@ body {
 }
 
 ul.nav {
+	display: inline;
 	list-style-image: none;
 	list-style-position: outside;
 	list-style-type: none;
