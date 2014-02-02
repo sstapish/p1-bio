@@ -33,7 +33,8 @@ img {
 }
 
 .float {
-	float: right;
+	display: inline-block;
+	float:ß right;
 
 	
 }
