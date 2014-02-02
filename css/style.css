@@ -8,6 +8,7 @@ body {
 	top: 0;
 	left: 0;
 	z-index: 10;
+	width:100%;
 	background: #212124;
 	line-height: 5px;
 	white-space: nowrap;
