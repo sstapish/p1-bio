@@ -82,10 +82,14 @@ ul {
 
   }
 
-  a:link {
+a:link {
   	color: white;
   }
 
-  a:visited {
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
   	color: lightblue;
   }
