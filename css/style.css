@@ -8,9 +8,11 @@ body {
 	top: 0;
 	left: 0;
 	z-index: 10;
+
 	width:100%;
 	background: #212124;
 	line-height: 5px;
+
 	white-space: nowrap;
 	min-width: 30px;
 }
@@ -19,7 +21,6 @@ body {
 	color: white;
 	font-family: 'Averia Sans Libre', cursive;
 
-	border-radius: 50px;
 	width: 400px;
 	height: 100px;
 
